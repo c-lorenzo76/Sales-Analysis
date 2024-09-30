@@ -1,6 +1,6 @@
 ﻿# Sales-Analysis
 
-Obtained the a superstores data set based on retail transactions. The data set contains more than 1,000 sales transaction records from 2020 through 2021. Each sales record contains information on product, region, division, and more.
+Obtained a superstores data set based on retail transactions. The data set contains more than 1,000 sales transaction records from 2020 through 2021. Each sales record contains information on product, region, division, and more.
 
 ## Objectives
 
